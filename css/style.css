@@ -41,6 +41,15 @@ footer p {
     font-size: 0.875rem;
 }
 
+#main-image img {
+    width: 85%;
+}
+
+.item img {
+    width: 100%;
+}
+
+
 /* iphone */
 @media (max-width: 834px) {
     body h1 {
